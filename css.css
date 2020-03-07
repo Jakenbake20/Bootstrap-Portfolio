@@ -1,0 +1,53 @@
+.jumbotron {
+    text-align: center;
+    background-color: teal;
+    padding-left: 5%;
+    
+
+}
+
+nav {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    padding: 10px;
+    margin-top: 50px;
+    border-right: thin solid black;
+    margin-right: 5%;
+
+}
+
+mark {
+    background-color: lightgreen;
+    color: red;
+}
+
+div.container-md{
+    border: thin black solid;
+    margin-top: 2%;
+    padding: 10px;
+    background-color: white;
+}
+
+body {
+    background-color:  rgb(234,234,234);
+}
+
+footer {
+    background-color: teal;
+    margin-top: 5%;
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+p{
+    font-family: 'Cardo', serif;
+    overflow: auto;
+    margin: 1%;
+}
+img {
+    float: left;
+    margin: 1%; 
+}
